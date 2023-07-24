@@ -1,0 +1,4 @@
+pydantic==2.0.3
+SQLAlchemy==2.0.19
+orjson==3.9.2
+Faker==19.2.0
